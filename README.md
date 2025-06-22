@@ -25,10 +25,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Observe ICMP traffic
+- Step 2: Configuring a Firewall [Network Security Group]
+- Step 3: Observe SSH traffic
+- Step 4: Observe DHCP traffic
+- Step 5: Observe DNS traffic
+- Step 6: Observe RDP traffic
 
 <h2>Actions and Observations</h2>
 
