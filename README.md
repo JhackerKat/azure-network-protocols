@@ -46,10 +46,15 @@ Step 1. Install Wireshark & observe ICMP traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="503" alt="Step 2 (a)" src="https://github.com/user-attachments/assets/1523d417-59dc-4cd9-9827-91be2d8525df" />
+<img width="502" alt="Step 2 (b)" src="https://github.com/user-attachments/assets/579681cf-3bb2-4330-8e0f-781bb498ef13" />
+<img width="469" alt="Step 2 (c)" src="https://github.com/user-attachments/assets/04f07f83-5824-42bb-9383-b2de264d1e38" />
+<img width="503" alt="Step 2 (d)" src="https://github.com/user-attachments/assets/b27cebfc-7e4a-4322-8ea6-55502b1f40f3" />
+<img width="503" alt="Step 2 (e)" src="https://github.com/user-attachments/assets/14c027c7-f8cf-4720-b97d-b04e024f0a2f" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Configuring a Firewall
 </p>
 <br />
 
