@@ -59,9 +59,37 @@ Step 2: Configuring a Firewall
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="505" alt="Step 3  (a)" src="https://github.com/user-attachments/assets/2fd2b15a-34f2-4041-9ca0-865f5ec4d426" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Observe SSH traffic
+</p>
+<br />
+
+<p>
+<img width="505" alt="Step 4  (a)" src="https://github.com/user-attachments/assets/1bd6efee-ea67-4ded-8bcb-c4d2bee54987" />
+<img width="503" alt="Step 4  (b)" src="https://github.com/user-attachments/assets/c70b64bc-dad7-4223-a2b4-056f0037a076" />
+
+</p>
+<p>
+Step 4: Observe DHCP traffic
+</p>
+<br />
+
+<p>
+<img width="505" alt="Step 5  (a)" src="https://github.com/user-attachments/assets/99bae47c-431e-4a74-811d-5b98d16c8eb3" />
+</p>
+<p>
+Step 5: Observe DNS traffic
+</p>
+<br />
+
+<p>
+<img width="503" alt="Step 6  (a)" src="https://github.com/user-attachments/assets/31234805-a32c-45d8-aa3b-102b0caa1259" />
+
+</p>
+<p>
+Step 6: Observe RDP traffic
 </p>
 <br />
