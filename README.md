@@ -35,10 +35,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="503" alt="Step 1  (a)" src="https://github.com/user-attachments/assets/a52e3317-e98e-46a0-b2d2-0ebce5722ec3" />
+<img width="504" alt="Step 1  (b)" src="https://github.com/user-attachments/assets/d5fe9626-948d-4668-9bf9-4a69a26899ef" />
+<img width="503" alt="Step 1  (b" src="https://github.com/user-attachments/assets/8021874e-b192-4213-9b8a-f493f28f1f4b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 1. Install Wireshark & observe ICMP traffic
 </p>
 <br />
 
